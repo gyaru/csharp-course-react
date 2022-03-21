@@ -41,6 +41,7 @@ const CloseWindow = styled.button`
   height: 25px;
   background: #b48ead;
   border: none;
+  margin-left: 15px;
   color: #fff;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   &:hover {

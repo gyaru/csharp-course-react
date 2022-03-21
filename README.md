@@ -7,3 +7,6 @@ A web front-end for the project [mvc-identity](https://github.com/gyaru/csharp-c
 * npm install
 
 * npm run dev
+
+### example
+![example](example.gif)
